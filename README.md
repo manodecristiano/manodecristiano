@@ -21,7 +21,7 @@ border="0" alt="HTML Hit Counters">
 </p>
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: My best Repositories </h3></summary>
 
 ----
 	
@@ -33,9 +33,13 @@ border="0" alt="HTML Hit Counters">
 	   <a href="https://github.com/manodecristiano/Cat_Bombers">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Cat_Bombers&theme=tokyonight" alt="GitHub Stats" />
     </a>
-   	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+   	<a href="https://github.com/manodecristiano/Black-Jack">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Black-Jack&theme=tokyonight" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/manodecristiano/Portfolio-React">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Portfolio-React&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    
     
   </p>
 </div>
