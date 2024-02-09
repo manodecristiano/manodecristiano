@@ -16,11 +16,15 @@ border="0" alt="HTML Hit Counters">
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/cristianuiux/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristianuiux/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cristiancarre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristianuiux/" height="30" width="40" /></a>
 <a href="https://www.cristiancarreno.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/click-it.svg" alt="https://www.cristiancarreno.com" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+<h3 align="left">
+<p align="center">
+ <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+ </p>
+ <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 </p> Languages and Tools:</h3>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
