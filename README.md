@@ -27,14 +27,14 @@ border="0" alt="HTML Hit Counters">
 <div align="center" >
  
 
- ![Snake animation](https://github.com/manodecristiano/manodecristiano/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <a href="https:/cristiancarreno.com">
+     <img  src="https://github.com/manodecristiano/manodecristiano/blob/output/github-contribution-grid-snake.svg"
+       alt="snake" />
+   
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
  
  </div>
 
