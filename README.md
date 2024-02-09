@@ -20,12 +20,32 @@ border="0" alt="HTML Hit Counters">
 <a href="https://www.cristiancarreno.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/click-it.svg" alt="https://www.cristiancarreno.com" height="30" width="40" /></a>
 </p>
 
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+   	<a href="https://github.com/manodecristiano/Weather-App">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Weather-App&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	   <a href="https://github.com/manodecristiano/Cat_Bombers">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Cat_Bombers&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+   	<a href="https://github.com/7oSkaaa/Strees_Testing">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    
+  </p>
+</div>
+</details>
+
 <h3 align="left">
 <p align="center">
  <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
  </p>
  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-</p> Languages and Tools:</h3>
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
