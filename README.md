@@ -28,16 +28,16 @@ border="0" alt="HTML Hit Counters">
 <div>
   <p align="center">
    	<a href="https://github.com/manodecristiano/Weather-App">
-      		<img src="https://githuyb-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Weather-App&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Weather-App&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	   <a href="https://github.com/manodecristiano/Cat_Bombers">
-      		<img src="https://githuyb-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Cat_Bombers&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Cat_Bombers&theme=tokyonight" alt="GitHub Stats" />
     </a>
    	<a href="https://github.com/manodecristiano/Black-Jack">
-      		<img src="https://githuyb-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Black-Jack&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Black-Jack&theme=tokyonight" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/manodecristiano/Portfolio-React">
-      		<img src="https://githuyb-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Portfolio-React&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=manodecristiano&repo=Portfolio-React&theme=tokyonight" alt="GitHub Stats" />
     </a>
     
     
