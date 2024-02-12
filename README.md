@@ -102,7 +102,7 @@ border="0" alt="HTML Hit Counters">
 
 <div align="center">
   <a href="https://cristiancarreno.com">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/manodecristiano/Portfolio-React/blob/main/src/components/assets/grid-snake.svg"
        alt="snake" /></a>
 </div>
  
